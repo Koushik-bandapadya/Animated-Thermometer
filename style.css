@@ -1,0 +1,55 @@
+/* .mystyle{
+   color: red;
+   font-size: 3rem;
+   background-color: sienna;
+} */
+/* 
+.parastyle{
+  color: red;
+  font-size: 3rem;
+  font-weight: bold;
+  font-style: italic;
+}  */
+
+/* button{
+ width : 100px;
+ height: 50px;
+ background-color: rgb(228, 18, 18);
+ text-align: center;
+ font-size: 1rem;
+ }
+ .text{
+  padding: 10px;
+  margin: 20px;
+
+ } */
+
+
+ /* body {
+  font-family: "Open Sans", sans-serif;
+  color: #272829;
+}
+
+a {
+  color: #149ddd;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #37b3ed;
+  text-decoration: none;
+} */
+/* *{
+  background-color: grey;
+} */
+.center {
+  width: 100%;
+  height: 100px;
+  /* background-color: rgb(79, 69, 87); */
+  /* Center vertically and horizontally */
+  position: absolute;
+  top: 50%;
+  left: 30rem;
+  margin: -25px 0 0 -250px;
+  }
+  
